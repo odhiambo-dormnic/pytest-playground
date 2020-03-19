@@ -1,6 +1,6 @@
 import pytest
 
-def capitalize_case(word) :
+def capitalize_case(word):
     if not isinstance(word, str):
       raise TypeError('Type provide is not a string! The allowed type is a string')
     return x.capitalize()
