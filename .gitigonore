@@ -32,3 +32,6 @@ celerybeat.pid
 optimuslogs/*.log
 .vscode
 /optimuslogs
+/wfp
+/.idea
+
